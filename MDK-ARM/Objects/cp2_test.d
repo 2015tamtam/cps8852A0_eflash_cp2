@@ -1,0 +1,11 @@
+.\objects\cp2_test.o: ..\Src\cp2_test.c
+.\objects\cp2_test.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\cp2_test.o: ..\Inc\CPS8852_Series\CPS8852Series.h
+.\objects\cp2_test.o: ..\Inc\CMSIS\core_cm0.h
+.\objects\cp2_test.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cp2_test.o: ..\Inc\CMSIS\core_cmInstr.h
+.\objects\cp2_test.o: ..\Inc\CMSIS\core_cmFunc.h
+.\objects\cp2_test.o: ..\Inc\CPS8852_Series\system_CPS8852Series.h
+.\objects\cp2_test.o: ..\Inc\CPS8852_Series\driver\uart.h
+.\objects\cp2_test.o: ..\Inc\CPS8852_Series\driver\eflash.h
+.\objects\cp2_test.o: ..\Inc\cp2_test.h

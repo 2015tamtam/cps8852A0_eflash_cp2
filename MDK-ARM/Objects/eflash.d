@@ -1,0 +1,11 @@
+.\objects\eflash.o: ..\Src\CPS8852_Series\driver\eflash.c
+.\objects\eflash.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\eflash.o: ..\Inc\CPS8852_Series\CPS8852Series.h
+.\objects\eflash.o: ..\Inc\CMSIS\core_cm0.h
+.\objects\eflash.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\eflash.o: ..\Inc\CMSIS\core_cmInstr.h
+.\objects\eflash.o: ..\Inc\CMSIS\core_cmFunc.h
+.\objects\eflash.o: ..\Inc\CPS8852_Series\system_CPS8852Series.h
+.\objects\eflash.o: ..\Inc\CPS8852_Series\driver\uart.h
+.\objects\eflash.o: ..\Inc\CPS8852_Series\driver\eflash.h
+.\objects\eflash.o: ..\Inc\variable.h

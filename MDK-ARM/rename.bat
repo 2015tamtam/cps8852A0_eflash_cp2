@@ -1,0 +1,1 @@
+rename Objects\CPS8852_eFlash_CP2.hex cps8852_eF_cp2_v1a.hex
